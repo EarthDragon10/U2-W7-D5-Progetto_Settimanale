@@ -1,0 +1,24 @@
+{
+  "name": "u2-w7-d5-progetto_settimanale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass:watch": "sass ./assets/scss/style.scss ./assets/css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EarthDragon10/U2-W7-D5-Progetto_Settimanale.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EarthDragon10/U2-W7-D5-Progetto_Settimanale/issues"
+  },
+  "homepage": "https://github.com/EarthDragon10/U2-W7-D5-Progetto_Settimanale#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "sass": "^1.55.0"
+  }
+}
