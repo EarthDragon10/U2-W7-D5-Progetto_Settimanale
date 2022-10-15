@@ -9,7 +9,7 @@ const fetchBooksAPI = async () => {
 };
 
 const showBookCards = (arrJSON) => {
-	// avevo intenzione di mostrare tutti i risultati inserendo dei bottini di paginazione in fondo alla pagina
+	// avevo intenzione di mostrare tutti i risultati inserendo dei bottoni di paginazione in fondo alla pagina
 	// ma per mancanza di tempo, ho ristretto gli elementi da visualizzare a 16
 
 	for (let i = 0; i < 16; i++) {
